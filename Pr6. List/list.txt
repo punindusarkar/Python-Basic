@@ -1,0 +1,22 @@
+
+
+# Methods       # Description
+
+
+1) add()    -Add an element to the set
+2) clear()  -remove all the element from the set
+3) copy()   -returns a copy of the set
+4) difference() - Returns a set containing the difference between tow or more set
+5) difference_update()  -remove the items in this set the are also included in another, specified set
+6) discard()    -remove the specified item 
+7) intersection()   -returns a set, that is the intersection of two or more sets
+8) intersection_update()    -remove the items in this set the are not prsent in other, specified set(s)
+9) isdisjoint()     -return whether this set have a intersection or not 
+10) issubset()  -return whether another set containing this set or not
+11) issuperset() - return whether this set countains another set or not
+12) pop()   - remove an element from the set
+13) remove() - remove the specified element
+14) symmetric_difference()  - return a set with the symmetric difference of two sets
+15) symmetic_difference_update()    - inserts the symmetric difference from this set and another 
+16) union() - return a set containing the union of sets
+17) update()    - update the set with another set, or any other iterable 

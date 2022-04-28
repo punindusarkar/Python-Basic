@@ -1,0 +1,10 @@
+# Methods       # Description
+
+""" 
+
+1) index()      - Searches the tuple for a specified vaule and returns the position of where it was found.
+2) count()      - returns the number of times a specified value occurs in a tuple.
+
+
+"""
+
